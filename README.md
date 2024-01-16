@@ -1,2 +1,2 @@
 # ITMD361_LAB1
-Vincent Richardo
+Lab 1 ITMD361 1/16/2023
